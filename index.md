@@ -1,3 +1,3 @@
-info@clingmansadvisors.com
+[email]
 
 ![img](/images/CD2.jpg)
