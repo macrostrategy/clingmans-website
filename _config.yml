@@ -17,7 +17,7 @@
 #copy this cd 'cd C:\Users\Slover\Documents\GitHub\clingsmans\clingmans-website'
 #'jekyll serve --watch'
 #
-title: Clingmans Advisors
+title: Clingmans
 email: info@clingmansadvisors.com
 description: >- # this means to ignore newlines until "baseurl:"
 
